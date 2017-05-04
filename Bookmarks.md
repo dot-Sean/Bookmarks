@@ -70,6 +70,12 @@ http://stackoverflow.com/questions/2968408/how-do-i-program-a-simple-irc-bot-in-
 https://pythonspot.com/en/building-an-irc-bot/
 https://www.youtube.com/watch?v=QNNvNU4CCp8
 
+https://www.twilio.com/blog/2016/05/build-sms-slack-bot-python.html
+https://tsaprailis.com/2016/06/02/How-to-build-and-deploy-a-Facebook-Messenger-bot-with-Python-and-Flask-a-tutorial/
+https://blog.pythonanywhere.com/148/
+https://tutorials.botsfloor.com/creating-chatbots-for-discord-90407e1bf382
+
+
 # Backdoors
 
 https://null-byte.wonderhowto.com/forum/build-daemonic-reverse-backdoor-python-part1-0176705/
