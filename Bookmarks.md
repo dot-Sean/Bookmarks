@@ -122,6 +122,12 @@ https://tutorials.botsfloor.com/creating-chatbots-for-discord-90407e1bf382
 
 https://www.twilio.com/blog/2016/05/add-phone-calling-slack-python.html
 
+https://blog.dataplicity.com/use-facebook-to-control-your-raspberry-pi-terminal-d952c15b3549
+
+https://cli.traan.vn/how-to-create-a-facebook-bot-in-10-minutes-the-complete-tutorial-from-zero-to-hero-ku-352dca274046
+
+https://chatbotnewsdaily.com/build-a-facebook-messenger-chat-bot-in-10-minutes-5f28fe0312cd
+
 # Backdoors
 
 https://null-byte.wonderhowto.com/forum/build-daemonic-reverse-backdoor-python-part1-0176705/
