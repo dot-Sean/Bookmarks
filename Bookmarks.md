@@ -1,4 +1,6 @@
-# Deep Web
+# General
+
+### Deep Web
 
 
 http://www.irongeek.com/i.php?page=videos/intro-to-tor-i2p-darknets
@@ -10,7 +12,7 @@ https://www.youtube.com/watch?v=1G3JezBjqH4
 http://www.irongeek.com/i.php?page=videos/i2p-darknet-software-in-linux
 
 
-# ML
+### ML
 
 https://www.google.co.in/#q=machine+learning+antivirus+python
 
@@ -19,13 +21,13 @@ http://radimrehurek.com/data_science_python/
 https://archive.ics.uci.edu/ml/datasets/Phishing+Websites#
 
 
-# Chrome Extension
+### Chrome Extension
 
 https://www.youtube.com/playlist?list=PLC3y8-rFHvwg2-q6Kvw3Tl_4xhxtIaNlY
 
 https://www.youtube.com/playlist?list=PLYxzS__5yYQlWil-vQ-y7NR902ovyq1Xi
 
-# Rootkits and Ransomware
+### Rootkits and Ransomware
 
 http://virus.enemy.org/virus-writing-HOWTO/_html/
 
@@ -46,7 +48,7 @@ https://blog.varonis.com/malware-coding-lessons-for-it-people-part-ii-more-fun-w
 https://www.youtube.com/watch?v=tBkieuXY1Ik
 
 
-# Network Tools
+### Network Tools
 
 https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBuWk2MR-drcaZAh8hdRUHq (Newboston python web scanner)
 
@@ -59,7 +61,7 @@ https://www.youtube.com/playlist?list=PL6gx4Cwl9DGA8Vys-f48mAH9OKSUyav0q (Web Cr
 https://cranklin.wordpress.com/2016/12/26/how-to-create-a-virus-using-the-assembly-language/
 
 
-# Python Virus
+### Python Virus
 
 https://codingsec.net/2016/11/make-simple-computer-virus-python/
 
@@ -74,7 +76,7 @@ http://www.primalsecurity.net/0xc-python-tutorial-python-malware/
 http://www.bluekaizen.org/writing-your-own-malware/
 
 
-# RAT
+### RAT
 
 https://null-byte.wonderhowto.com/how-to/program-your-own-little-rat-part-1-getting-server-working-0167490/
 
@@ -84,7 +86,7 @@ https://null-byte.wonderhowto.com/forum/python-linux-remote-administration-tool-
 
 
 
-# Bots
+### Bots
 
 https://www.codementor.io/garethdwyer/building-a-telegram-bot-using-python-part-1-goi5fncay
 
@@ -128,7 +130,7 @@ https://cli.traan.vn/how-to-create-a-facebook-bot-in-10-minutes-the-complete-tut
 
 https://chatbotnewsdaily.com/build-a-facebook-messenger-chat-bot-in-10-minutes-5f28fe0312cd
 
-# Backdoors
+### Backdoors
 
 https://null-byte.wonderhowto.com/forum/build-daemonic-reverse-backdoor-python-part1-0176705/
 
@@ -149,7 +151,7 @@ https://null-byte.wonderhowto.com/how-to/build-evasive-shell-python-part-4-testi
 https://null-byte.wonderhowto.com/how-to/reverse-shell-using-python-0163875/
 
 
-# Worms
+### Worms
 
 http://cyberrwarfare.blogspot.in/2011/12/worm-writing-tutorialby-hakesa-worm-is.html
 
@@ -160,5 +162,12 @@ http://hackoftheday.securitytube.net/2013/04/simulating-ssh-worm-using-python.ht
 https://www.youtube.com/watch?v=3_R6X9YHy0c
 
 
-# Others
+### Others
 https://www.youtube.com/watch?v=vg9cNFPQFqM
+
+
+# Course Work
+
+### Mobile Computing
+
+https://www.youtube.com/channel/UCDTvBzvZ-TiFRRsXss0KzPg/videos?shelf_id=0&view=0&sort=dd (Prof. Naik's Old Lectures)
