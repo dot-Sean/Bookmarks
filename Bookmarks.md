@@ -172,6 +172,8 @@ https://www.youtube.com/watch?v=vg9cNFPQFqM
 https://www.twilio.com/blog/2017/05/send-sms-text-messages-aws-lambda-python-3-6.html
 https://www.twilio.com/blog/2017/04/verify-phone-numbers-with-java-and-the-twilio-lookup-api.html
 https://www.twilio.com/blog/2017/03/building-python-web-apps-with-flask.html
+https://www.twilio.com/docs/tutorials?order_by=-popularity_rank
+https://docs.microsoft.com/en-us/azure/partner-twilio-python-how-to-use-voice-sms
 
 # Course Work
 
