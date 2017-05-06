@@ -11,6 +11,17 @@ https://www.youtube.com/watch?v=1G3JezBjqH4
 
 http://www.irongeek.com/i.php?page=videos/i2p-darknet-software-in-linux
 
+### Webshells
+
+https://www.acunetix.com/blog/articles/introduction-web-shells-part-1/
+
+https://www.acunetix.com/blog/articles/web-shells-101-using-php-introduction-web-shells-part-2/
+
+https://www.acunetix.com/blog/articles/keeping-web-shells-undercover-an-introduction-to-web-shells-part-3/
+
+https://www.acunetix.com/blog/articles/web-shells-action-introduction-web-shells-part-4/
+
+https://www.acunetix.com/blog/articles/detection-prevention-introduction-web-shells-part-5/
 
 ### ML
 
@@ -170,10 +181,15 @@ https://www.youtube.com/watch?v=vg9cNFPQFqM
 ### Twilio
 
 https://www.twilio.com/blog/2017/05/send-sms-text-messages-aws-lambda-python-3-6.html
+
 https://www.twilio.com/blog/2017/04/verify-phone-numbers-with-java-and-the-twilio-lookup-api.html
+
 https://www.twilio.com/blog/2017/03/building-python-web-apps-with-flask.html
+
 https://www.twilio.com/docs/tutorials?order_by=-popularity_rank
+
 https://docs.microsoft.com/en-us/azure/partner-twilio-python-how-to-use-voice-sms
+
 
 # Course Work
 
