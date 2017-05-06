@@ -165,6 +165,13 @@ https://www.youtube.com/watch?v=3_R6X9YHy0c
 ### Others
 https://www.youtube.com/watch?v=vg9cNFPQFqM
 
+# APIs
+
+### Twilio
+
+https://www.twilio.com/blog/2017/05/send-sms-text-messages-aws-lambda-python-3-6.html
+https://www.twilio.com/blog/2017/04/verify-phone-numbers-with-java-and-the-twilio-lookup-api.html
+https://www.twilio.com/blog/2017/03/building-python-web-apps-with-flask.html
 
 # Course Work
 
