@@ -207,3 +207,11 @@ https://www.twilio.com/blog/2016/05/build-sms-slack-bot-python.html
 ### Mobile Computing
 
 https://www.youtube.com/channel/UCDTvBzvZ-TiFRRsXss0KzPg/videos?shelf_id=0&view=0&sort=dd (Prof. Naik's Old Lectures)
+
+#### Android
+
+https://www.codementor.io/sundayakinsete/firebase-real-time-notifications-app-to-app-opkwbo6ba
+
+https://www.codementor.io/android/tutorial/most-common-android-errors-how-to-fix-them
+
+http://androidexample.com
