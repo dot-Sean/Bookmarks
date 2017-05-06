@@ -13,6 +13,7 @@ http://www.irongeek.com/i.php?page=videos/i2p-darknet-software-in-linux
 
 ### Webshells
 
+
 https://www.acunetix.com/blog/articles/introduction-web-shells-part-1/
 
 https://www.acunetix.com/blog/articles/web-shells-101-using-php-introduction-web-shells-part-2/
@@ -34,11 +35,13 @@ https://archive.ics.uci.edu/ml/datasets/Phishing+Websites#
 
 ### Chrome Extension
 
+
 https://www.youtube.com/playlist?list=PLC3y8-rFHvwg2-q6Kvw3Tl_4xhxtIaNlY
 
 https://www.youtube.com/playlist?list=PLYxzS__5yYQlWil-vQ-y7NR902ovyq1Xi
 
 ### Rootkits and Ransomware
+
 
 http://virus.enemy.org/virus-writing-HOWTO/_html/
 
@@ -58,6 +61,12 @@ https://blog.varonis.com/malware-coding-lessons-for-it-people-part-ii-more-fun-w
 
 https://www.youtube.com/watch?v=tBkieuXY1Ik
 
+
+### DJango
+
+https://tutorial.djangogirls.org/en/
+
+https://docs.djangoproject.com/en/1.11/intro/tutorial01/
 
 ### Network Tools
 
@@ -189,6 +198,8 @@ https://www.twilio.com/blog/2017/03/building-python-web-apps-with-flask.html
 https://www.twilio.com/docs/tutorials?order_by=-popularity_rank
 
 https://docs.microsoft.com/en-us/azure/partner-twilio-python-how-to-use-voice-sms
+
+https://www.twilio.com/blog/2016/05/build-sms-slack-bot-python.html
 
 
 # Course Work
