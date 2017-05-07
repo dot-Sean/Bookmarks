@@ -40,6 +40,7 @@ https://www.youtube.com/playlist?list=PLC3y8-rFHvwg2-q6Kvw3Tl_4xhxtIaNlY
 
 https://www.youtube.com/playlist?list=PLYxzS__5yYQlWil-vQ-y7NR902ovyq1Xi
 
+
 ### Rootkits and Ransomware
 
 
@@ -183,7 +184,11 @@ https://www.youtube.com/watch?v=3_R6X9YHy0c
 
 
 ### Others
-https://www.youtube.com/watch?v=vg9cNFPQFqM
+
+https://www.youtube.com/watch?v=vg9cNFPQFqM(Hacking Series)
+
+http://www.diveintopython.net/file_handling/os_module.html
+
 
 # APIs
 
