@@ -44,8 +44,6 @@ https://www.youtube.com/playlist?list=PLYxzS__5yYQlWil-vQ-y7NR902ovyq1Xi
 ### Rootkits and Ransomware
 
 
-http://virus.enemy.org/virus-writing-HOWTO/_html/
-
 http://turbochaos.blogspot.in/2013/10/writing-linux-rootkits-301_31.html
 
 http://turbochaos.blogspot.in/2013/10/writing-linux-rootkits-201-23.html
@@ -65,9 +63,11 @@ https://www.youtube.com/watch?v=tBkieuXY1Ik
 
 ### DJango
 
+
 https://tutorial.djangogirls.org/en/
 
 https://docs.djangoproject.com/en/1.11/intro/tutorial01/
+
 
 ### Network Tools
 
@@ -84,6 +84,9 @@ https://cranklin.wordpress.com/2016/12/26/how-to-create-a-virus-using-the-assemb
 
 ### Python Virus
 
+
+http://virus.enemy.org/virus-writing-HOWTO/_html/
+
 https://codingsec.net/2016/11/make-simple-computer-virus-python/
 
 http://www.techian.com/tutorials/python-virus-writing-tutorial/
@@ -97,7 +100,9 @@ http://www.primalsecurity.net/0xc-python-tutorial-python-malware/
 http://www.bluekaizen.org/writing-your-own-malware/
 
 
+
 ### RAT
+
 
 https://null-byte.wonderhowto.com/how-to/program-your-own-little-rat-part-1-getting-server-working-0167490/
 
@@ -108,6 +113,7 @@ https://null-byte.wonderhowto.com/forum/python-linux-remote-administration-tool-
 
 
 ### Bots
+
 
 https://www.codementor.io/garethdwyer/building-a-telegram-bot-using-python-part-1-goi5fncay
 
@@ -151,7 +157,9 @@ https://cli.traan.vn/how-to-create-a-facebook-bot-in-10-minutes-the-complete-tut
 
 https://chatbotnewsdaily.com/build-a-facebook-messenger-chat-bot-in-10-minutes-5f28fe0312cd
 
+
 ### Backdoors
+
 
 https://null-byte.wonderhowto.com/forum/build-daemonic-reverse-backdoor-python-part1-0176705/
 
@@ -174,6 +182,7 @@ https://null-byte.wonderhowto.com/how-to/reverse-shell-using-python-0163875/
 
 ### Worms
 
+
 http://cyberrwarfare.blogspot.in/2011/12/worm-writing-tutorialby-hakesa-worm-is.html
 
 https://www.darknet.org.uk/2006/12/writing-worms-for-fun-or-profit/
@@ -182,12 +191,15 @@ http://hackoftheday.securitytube.net/2013/04/simulating-ssh-worm-using-python.ht
 
 https://www.youtube.com/watch?v=3_R6X9YHy0c
 
+
 ### Blogs
+
 
 https://grugq.github.io
 
 
 ### Others
+
 
 https://www.youtube.com/watch?v=vg9cNFPQFqM(Hacking Series)
 
@@ -196,7 +208,9 @@ http://www.diveintopython.net/file_handling/os_module.html
 
 # APIs
 
+
 ### Twilio
+
 
 https://www.twilio.com/blog/2017/05/send-sms-text-messages-aws-lambda-python-3-6.html
 
@@ -213,11 +227,15 @@ https://www.twilio.com/blog/2016/05/build-sms-slack-bot-python.html
 
 # Course Work
 
+
 ### Mobile Computing
+
 
 https://www.youtube.com/channel/UCDTvBzvZ-TiFRRsXss0KzPg/videos?shelf_id=0&view=0&sort=dd (Prof. Naik's Old Lectures)
 
+
 #### Android
+
 
 https://www.codementor.io/sundayakinsete/firebase-real-time-notifications-app-to-app-opkwbo6ba
 
