@@ -182,6 +182,10 @@ http://hackoftheday.securitytube.net/2013/04/simulating-ssh-worm-using-python.ht
 
 https://www.youtube.com/watch?v=3_R6X9YHy0c
 
+### Blogs
+
+https://grugq.github.io
+
 
 ### Others
 
