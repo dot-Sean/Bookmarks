@@ -111,6 +111,15 @@ https://null-byte.wonderhowto.com/how-to/program-your-own-little-rat-part-2-gett
 https://null-byte.wonderhowto.com/forum/python-linux-remote-administration-tool-0162538/
 
 
+### Botnet
+
+
+https://null-byte.wonderhowto.com/how-to/code-your-own-botnet-dumbotnet-0168215/
+
+
+http://raidersec.blogspot.in/2013/07/building-ssh-botnet-c-using-python-and.html
+
+
 
 ### Bots
 
@@ -127,7 +136,7 @@ http://pythonforengineers.com/build-a-reddit-bot-part-1/
 
 http://charlesleifer.com/blog/simple-botnet-written-python/
 
-http://raidersec.blogspot.in/2013/07/building-ssh-botnet-c-using-python-and.html
+
 
 https://botwiki.org
 
