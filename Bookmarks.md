@@ -120,6 +120,7 @@ https://null-byte.wonderhowto.com/how-to/code-your-own-botnet-dumbotnet-0168215/
 http://raidersec.blogspot.in/2013/07/building-ssh-botnet-c-using-python-and.html
 
 
+http://www.google.co.in/url?q=https://www.sans.org/reading-room/whitepapers/threats/byob-build-botnet-33729&sa=U&ved=0ahUKEwjEitzH-t_TAhUHp48KHQz8DKcQFggaMAU&usg=AFQjCNHcNl7ED8fNOC3F5SDfm7FqFcm8KA
 
 https://www.youtube.com/watch?v=Xb9kjoW1Gas(ssh botnet)
 
