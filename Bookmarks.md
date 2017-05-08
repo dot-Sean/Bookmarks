@@ -157,6 +157,8 @@ https://cli.traan.vn/how-to-create-a-facebook-bot-in-10-minutes-the-complete-tut
 
 https://chatbotnewsdaily.com/build-a-facebook-messenger-chat-bot-in-10-minutes-5f28fe0312cd
 
+https://blog.hartleybrody.com/fb-messenger-bot/
+
 
 ### Backdoors
 
