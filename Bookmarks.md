@@ -215,6 +215,10 @@ https://www.youtube.com/watch?v=vg9cNFPQFqM(Hacking Series)
 
 http://www.diveintopython.net/file_handling/os_module.html
 
+https://www.symantec.com/avcenter/reference/techniques.of.adware.and.spyware.pdf
+
+
+
 
 # APIs
 
