@@ -99,7 +99,15 @@ http://www.primalsecurity.net/0xc-python-tutorial-python-malware/
 
 http://www.bluekaizen.org/writing-your-own-malware/
 
+### Kernel Programming
 
+http://www.tldp.org/LDP/lkmpg/2.6/lkmpg.pdf
+
+http://derekmolloy.ie/writing-a-linux-kernel-module-part-1-introduction/
+
+http://derekmolloy.ie/writing-a-linux-kernel-module-part-2-a-character-device/
+
+http://derekmolloy.ie/kernel-gpio-programming-buttons-and-leds/
 
 ### RAT
 
