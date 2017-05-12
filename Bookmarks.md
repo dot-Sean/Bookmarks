@@ -207,6 +207,14 @@ https://www.youtube.com/watch?v=3_R6X9YHy0c
 
 https://grugq.github.io
 
+https://t0w3ntum.com/
+
+https://localhost.exposed/
+
+http://ch3rn0byl.com/
+
+https://tulpa-security.com/category/articles/
+
 
 ### Others
 
