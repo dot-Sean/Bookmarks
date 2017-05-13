@@ -109,6 +109,8 @@ http://derekmolloy.ie/writing-a-linux-kernel-module-part-2-a-character-device/
 
 http://derekmolloy.ie/kernel-gpio-programming-buttons-and-leds/
 
+https://ruinedsec.wordpress.com/2013/04/04/modifying-system-calls-dispatching-linux/
+
 ### RAT
 
 
