@@ -45,6 +45,11 @@ https://www.youtube.com/playlist?list=PLYxzS__5yYQlWil-vQ-y7NR902ovyq1Xi
 
 https://www.malwaretech.com/2015/01/inline-hooking-for-programmers-part-1.html
 
+http://www.rohitab.com/discuss/topic/41855-tutorial-the-different-ways-of-hooking/
+
+https://0x00sec.org/t/user-mode-rootkits-iat-and-inline-hooking/1108
+
+
 ### Rootkits and Ransomware
 
 
