@@ -41,6 +41,10 @@ https://www.youtube.com/playlist?list=PLC3y8-rFHvwg2-q6Kvw3Tl_4xhxtIaNlY
 https://www.youtube.com/playlist?list=PLYxzS__5yYQlWil-vQ-y7NR902ovyq1Xi
 
 
+### Hooking
+
+https://www.malwaretech.com/2015/01/inline-hooking-for-programmers-part-1.html
+
 ### Rootkits and Ransomware
 
 
