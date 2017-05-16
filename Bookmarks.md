@@ -84,6 +84,11 @@ https://blog.varonis.com/malware-coding-lessons-for-it-people-part-ii-more-fun-w
 https://www.youtube.com/watch?v=tBkieuXY1Ik
 
 
+### GSOC
+
+http://write.flossmanuals.net/melange/general-information-and-questions/
+
+
 ### DJango
 
 
