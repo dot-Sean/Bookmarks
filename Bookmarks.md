@@ -11,6 +11,7 @@ https://www.youtube.com/watch?v=1G3JezBjqH4
 
 http://www.irongeek.com/i.php?page=videos/i2p-darknet-software-in-linux
 
+
 ### Webshells
 
 
@@ -23,6 +24,7 @@ https://www.acunetix.com/blog/articles/keeping-web-shells-undercover-an-introduc
 https://www.acunetix.com/blog/articles/web-shells-action-introduction-web-shells-part-4/
 
 https://www.acunetix.com/blog/articles/detection-prevention-introduction-web-shells-part-5/
+
 
 ### ML
 
@@ -48,6 +50,18 @@ https://www.malwaretech.com/2015/01/inline-hooking-for-programmers-part-1.html
 http://www.rohitab.com/discuss/topic/41855-tutorial-the-different-ways-of-hooking/
 
 https://0x00sec.org/t/user-mode-rootkits-iat-and-inline-hooking/1108
+
+http://syprog.blogspot.in/2011/10/hijack-linux-system-calls-part-i.html
+
+http://syprog.blogspot.in/2011/10/hijack-linux-system-calls-part-ii.html
+
+http://syprog.blogspot.in/2011/10/hijack-linux-system-calls-part-iii.html
+
+https://memset.wordpress.com/2010/12/03/syscall-hijacking-kernel-2-6-systems/
+
+http://r00tkit.me/?p=46
+
+
 
 
 ### Rootkits and Ransomware
