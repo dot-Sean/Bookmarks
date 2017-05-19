@@ -265,6 +265,8 @@ https://www.symantec.com/avcenter/reference/techniques.of.adware.and.spyware.pdf
 
 https://docs.google.com/a/iiitd.ac.in/document/d/13JcOdYqL_bo1r_7uVMEeLFqWyLa2pmyTSGsiDyVwcio/edit?usp=sharing
 
+http://www.satishkashyap.com/p/video-lectures.html
+
 
 # APIs
 
