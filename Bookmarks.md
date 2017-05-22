@@ -306,6 +306,16 @@ https://www.youtube.com/channel/UCDTvBzvZ-TiFRRsXss0KzPg/videos?shelf_id=0&view=
 
 https://www.youtube.com/channel/UCHWDvGDh4QjWbV79bM2neSg/videos
 
+https://www.youtube.com/watch?v=JfMTWr8_pw4
+
+https://www.youtube.com/watch?v=qgGqaBAEy3Q
+
+https://www.youtube.com/watch?v=hN3-wTOxrsY
+
+https://www.youtube.com/watch?v=HJ4Hcq3YX4k
+
+https://www.youtube.com/watch?v=L0C_D68E1Q0
+
 #### Android
 
 
