@@ -259,7 +259,7 @@ https://itgeekchronicles.co.uk/
 ### Others
 
 
-https://www.youtube.com/watch?v=vg9cNFPQFqM(Hacking Series)
+https://www.youtube.com/watch?v=vg9cNFPQFqM (Hacking Series)
 
 http://www.diveintopython.net/file_handling/os_module.html
 
@@ -302,6 +302,9 @@ https://www.youtube.com/playlist?list=PL71FE85723FD414D7 (Cryptography)
 
 https://www.youtube.com/channel/UCDTvBzvZ-TiFRRsXss0KzPg/videos?shelf_id=0&view=0&sort=dd (Prof. Naik's Old Lectures)
 
+### PSOSM
+
+https://www.youtube.com/channel/UCHWDvGDh4QjWbV79bM2neSg/videos
 
 #### Android
 
