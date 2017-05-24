@@ -12,6 +12,17 @@ https://www.youtube.com/watch?v=1G3JezBjqH4
 http://www.irongeek.com/i.php?page=videos/i2p-darknet-software-in-linux
 
 
+### Hardware Security
+
+https://www.coursera.org/learn/hardware-security/lecture/jvTrQ/hardware-trojan-ht-and-trusted-ic
+
+https://www.coursera.org/learn/hardware-security/lecture/k4ukj/introduction-to-side-channel-attacks
+
+https://www.coursera.org/learn/hardware-security/lecture/Qd24I/modular-exponentiation-me-basics
+
+https://www.coursera.org/learn/hardware-security/lecture/HxoZT/fpga-implementation-of-crypto
+
+
 ### Webshells
 
 
