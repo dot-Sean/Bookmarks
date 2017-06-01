@@ -72,7 +72,9 @@ https://memset.wordpress.com/2010/12/03/syscall-hijacking-kernel-2-6-systems/
 
 http://r00tkit.me/?p=46
 
+### GRE
 
+http://precog.iiitd.edu.in/graduate-school-faqs.html
 
 
 ### Rootkits and Ransomware
