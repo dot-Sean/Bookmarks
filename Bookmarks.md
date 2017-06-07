@@ -79,6 +79,7 @@ http://precog.iiitd.edu.in/graduate-school-faqs.html
 
 ### Rootkits and Ransomware
 
+https://www.youtube.com/watch?v=lsflaKpeB7Q
 
 http://turbochaos.blogspot.in/2013/10/writing-linux-rootkits-301_31.html
 
