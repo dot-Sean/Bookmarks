@@ -311,6 +311,9 @@ https://www.youtube.com/playlist?list=PL0862D1A947252D20 (Discrete Maths)
 
 https://www.youtube.com/playlist?list=PL71FE85723FD414D7 (Cryptography)
 
+http://nptel.ac.in/courses/106105084/33
+
+
 ### Mobile Computing
 
 
