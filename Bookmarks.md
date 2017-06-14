@@ -335,6 +335,8 @@ https://www.youtube.com/watch?v=HJ4Hcq3YX4k
 
 https://www.youtube.com/watch?v=L0C_D68E1Q0
 
+http://precog.iiitd.edu.in/events/psosm2013/
+
 #### Android
 
 
