@@ -288,6 +288,8 @@ https://docs.google.com/a/iiitd.ac.in/document/d/13JcOdYqL_bo1r_7uVMEeLFqWyLa2pm
 
 http://www.satishkashyap.com/p/video-lectures.html
 
+https://zeltser.com/third-party-keyboards-security/
+
 
 # APIs
 
