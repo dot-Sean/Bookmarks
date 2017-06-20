@@ -290,6 +290,8 @@ http://www.satishkashyap.com/p/video-lectures.html
 
 https://zeltser.com/third-party-keyboards-security/
 
+http://sudeep.co/cloud-computing/How-to-Build-Your-Development-Stack-in-the-Cloud-from-Scratch/
+
 
 # APIs
 
