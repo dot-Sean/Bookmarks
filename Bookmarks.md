@@ -332,6 +332,10 @@ https://www.youtube.com/channel/UCDTvBzvZ-TiFRRsXss0KzPg/videos?shelf_id=0&view=
 
 ### PSOSM
 
+https://www.youtube.com/playlist?list=PLk_jmmkw5S2COeiws6vxGAj3Ga4tCto7B
+
+https://www.youtube.com/playlist?list=PLk_jmmkw5S2BqnYBqF2VNPcszY93-ze49 
+
 https://www.youtube.com/channel/UCHWDvGDh4QjWbV79bM2neSg/videos
 
 https://www.youtube.com/watch?v=JfMTWr8_pw4
