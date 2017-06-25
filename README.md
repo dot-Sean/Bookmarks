@@ -37,7 +37,7 @@ https://www.acunetix.com/blog/articles/web-shells-action-introduction-web-shells
 https://www.acunetix.com/blog/articles/detection-prevention-introduction-web-shells-part-5/
 
 
-### ML
+### ML Apps
 
 https://www.google.co.in/#q=machine+learning+antivirus+python
 
@@ -324,6 +324,10 @@ http://nptel.ac.in/courses/106105084/33
 
 http://nptel.ac.in/courses/106105162/
 
+### Machine Learning
+
+https://www.youtube.com/playlist?list=PL1xHD4vteKYVpaIiy295pg6_SY5qznc77
+
 
 ### Mobile Computing
 
@@ -349,6 +353,7 @@ https://www.youtube.com/watch?v=HJ4Hcq3YX4k
 https://www.youtube.com/watch?v=L0C_D68E1Q0
 
 http://precog.iiitd.edu.in/events/psosm2013/
+
 
 #### Android
 
