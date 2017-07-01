@@ -81,6 +81,8 @@ https://cs.stanford.edu/people/rkarthik/DAGAP.pdf
 
 http://karts-speaks.blogspot.in/p/applying-to-grad-school.html
 
+https://www.csuci.edu/careerdevelopment/services/sample-graduate-school-admissions-essays.pdf
+
 
 ### Rootkits and Ransomware
 
