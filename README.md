@@ -330,6 +330,16 @@ http://nptel.ac.in/courses/106105162/
 
 https://www.youtube.com/playlist?list=PL1xHD4vteKYVpaIiy295pg6_SY5qznc77
 
+https://www.youtube.com/playlist?list=PLszwY6Kw2_n99YKb-sNv9uFoMTHGNyXph
+
+https://www.coursera.org/learn/python-machine-learning/lecture/1U5pC/examining-the-data (Module 1 Coursera)
+
+https://www.coursera.org/learn/python-machine-learning/lecture/EKQDv/introduction-to-supervised-machine-learning (Module 2 Coursera)
+
+https://www.coursera.org/learn/python-machine-learning/lecture/1ugJR/multi-class-evaluation (Module 3 Coursera)
+
+https://www.coursera.org/learn/python-machine-learning/lecture/0XFms/naive-bayes-classifiers (Module 4 Coursera)
+
 
 ### Mobile Computing
 
