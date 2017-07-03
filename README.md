@@ -148,6 +148,7 @@ http://www.primalsecurity.net/0xc-python-tutorial-python-malware/
 
 http://www.bluekaizen.org/writing-your-own-malware/
 
+
 ### Kernel Programming
 
 http://www.tldp.org/LDP/lkmpg/2.6/lkmpg.pdf
@@ -159,6 +160,7 @@ http://derekmolloy.ie/writing-a-linux-kernel-module-part-2-a-character-device/
 http://derekmolloy.ie/kernel-gpio-programming-buttons-and-leds/
 
 https://ruinedsec.wordpress.com/2013/04/04/modifying-system-calls-dispatching-linux/
+
 
 ### RAT
 
@@ -327,6 +329,8 @@ http://nptel.ac.in/courses/106105084/33
 http://nptel.ac.in/courses/106105162/
 
 ### Machine Learning
+
+https://www.youtube.com/playlist?list=PLYihddLF-CgYuWNL55Wg8ALkm6u8U7gps
 
 https://www.youtube.com/playlist?list=PL1xHD4vteKYVpaIiy295pg6_SY5qznc77
 
