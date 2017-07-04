@@ -296,6 +296,12 @@ https://zeltser.com/third-party-keyboards-security/
 
 http://sudeep.co/cloud-computing/How-to-Build-Your-Development-Stack-in-the-Cloud-from-Scratch/
 
+SECURITY DATA SET
+
+http://www.covert.io/data-links/
+
+http://www.secrepo.com/
+
 
 # APIs
 
